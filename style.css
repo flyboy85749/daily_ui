@@ -1,0 +1,18 @@
+body {
+  color: #fff;
+  background-color: gray;
+  margin: 0 auto;
+}
+
+.container {
+  width: 90%;
+  max-width: 800px;
+}
+
+.modal .label {
+  color: #fff;
+}
+
+.modal {
+  padding: 6em;
+}

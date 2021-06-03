@@ -10,18 +10,20 @@ header {
 
 header h1 {
   color: #fff;
-  font-size: 2.5rem;
+  font-size: 4rem;
   margin: 0 0 1em 2em;
 }
 
 header p {
   color: #fff;
-  margin-left: 5.2em;
+  font-size: 2rem;
+  padding-right: 22em;
+  margin-left: 4em;
 }
 
 header img {
   width: 33%;
   position: relative;
-  top: -1em;
-  left: 36em;
+  top: -6em;
+  left: 50em;
 }

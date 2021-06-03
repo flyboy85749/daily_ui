@@ -2,7 +2,12 @@ body {
   color: #fff;
   background-color: gray;
   margin: 0 auto;
+  padding: 5em;
 }
+
+/* h1 {
+  font-size: 
+} */
 
 .container {
   width: 90%;
